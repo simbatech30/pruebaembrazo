@@ -1,0 +1,189 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://firmajayamurni.blogspot.com/p/privacy-policy.html",
+      "email_feedback_and_report": "saidalijodu@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "admob",
+      "backup_ad": "none",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1102321626840506",
+      "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1103218190084183",
+      "fan_native_unit_id": "IMG_16_9_APP_INSTALL#1102290040176998_1142394442833224",
+      "startapp_app_id": "0",
+      "unity_game_id": "4089993",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_banner_mrec_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "85460dcd",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "wortise_app_id": "test-app-id",
+      "wortise_banner_id": "test-banner",
+      "wortise_interstitial_id": "test-interstitial",
+      "wortise_native_id": "test-native",
+      "wortise_app_open_id": "test-app-open",
+      "interstitial_ad_interval": 3,
+      "native_ad_index": 1,
+      "native_ad_interval": 8,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_native_ad_exit_dialog": true,
+      "show_open_ad_on_app_start": true,
+      "show_open_ad_on_app_resume": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Guia",
+      "image": "https://raw.githubusercontent.com/simbatech30/pruebaembrazo/main/guia.jpg"
+    },
+    
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "category": "Guia",
+      "title": "Consejos Importantes Después de una Prueba de Embarazo Positiva: Pasos a Seguir que Debes Conocer",
+      "image": "https://raw.githubusercontent.com/simbatech30/pruebaembrazo/main/guia.jpg",
+      "content": "https://raw.githubusercontent.com/simbatech30/pruebaembrazo/main/prueba1.html",
+      "video": ""
+    },
+    {
+      "id": 2,
+      "category": "Guia",
+      "title": "Comprendiendo los Resultados de la Prueba de Embarazo: Estrategias y Consejos para Superar las Preocupaciones",
+      "image": "https://raw.githubusercontent.com/simbatech30/pruebaembrazo/main/guia.jpg",
+      "content": "https://raw.githubusercontent.com/simbatech30/pruebaembrazo/main/prueba2.html",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "Guia",
+      "title": "Consejos Importantes Antes de Realizar la Prueba de Embarazo: Preparación Adecuada para Resultados Precisos",
+      "image": "https://raw.githubusercontent.com/simbatech30/pruebaembrazo/main/guia.jpg",
+      "content": "https://raw.githubusercontent.com/simbatech30/pruebaembrazo/main/prueba3.html",
+      "video": ""
+    },
+    {
+      "id": 4,
+      "category": "Guia",
+      "title": "Guía de Prueba de Embarazo en Casa: Cuándo y Cómo Hacerlo con Precisión",
+      "image": "https://raw.githubusercontent.com/simbatech30/pruebaembrazo/main/guia.jpg",
+      "content": "https://raw.githubusercontent.com/simbatech30/pruebaembrazo/main/prueba4.html",
+      "video": ""
+    },
+    {
+      "id": 5,
+      "category": "Guia",
+      "title": "Guía para la Interpretación de Resultados Positivos en la Prueba de Embarazo: Decodificando las Líneas Indicativas de Embarazo",
+      "image": "https://raw.githubusercontent.com/simbatech30/pruebaembrazo/main/guia.jpg",
+      "content": "https://raw.githubusercontent.com/simbatech30/pruebaembrazo/main/prueba5.html",
+      "video": ""
+    },
+    {
+      "id": 6,
+      "category": "Guia",
+      "title": "Guía Completa para una Prueba de Embarazo Positiva: Paso a Paso",
+      "image": "https://raw.githubusercontent.com/simbatech30/pruebaembrazo/main/guia.jpg",
+      "content": "https://raw.githubusercontent.com/simbatech30/pruebaembrazo/main/prueba6.html",
+      "video": ""
+    },
+    {
+      "id": 7,
+      "category": "Guia",
+      "title": "Mitos y Hechos en torno a las Pruebas de Embarazo: Guía para Entender las Instrucciones Correctamente",
+      "image": "https://raw.githubusercontent.com/simbatech30/pruebaembrazo/main/guia.jpg",
+      "content": "https://raw.githubusercontent.com/simbatech30/pruebaembrazo/main/prueba7.html",
+      "video": ""
+    },
+    {
+      "id": 8,
+      "category": "Guia",
+      "title": "Navegando por Resultados Confusos de Pruebas de Embarazo: Soluciones y Explicaciones",
+      "image": "https://raw.githubusercontent.com/simbatech30/pruebaembrazo/main/guia.jpg",
+      "content": "https://raw.githubusercontent.com/simbatech30/pruebaembrazo/main/prueba8.html",
+      "video": ""
+    },
+    {
+      "id": 9,
+      "category": "Guia",
+      "title": "Prueba de Embarazo Casera: Cómo Utilizarla Correctamente e Interpretar los Resultados",
+      "image": "https://raw.githubusercontent.com/simbatech30/pruebaembrazo/main/guia.jpg",
+      "content": "https://raw.githubusercontent.com/simbatech30/pruebaembrazo/main/prueba9.html",
+      "video": ""
+    },
+    {
+      "id": 10,
+      "category": "Guia",
+      "title": "Prueba de Embarazo Casera: Cómo Utilizarla Correctamente e Interpretar los Resultados",
+      "image": "https://raw.githubusercontent.com/simbatech30/pruebaembrazo/main/guia.jpg",
+      "content": "https://raw.githubusercontent.com/simbatech30/pruebaembrazo/main/prueba10.html",
+      "video": ""
+    },
+    {
+      "id": 11,
+      "category": "Guia",
+      "title": "Entendiendo los Resultados de la Prueba de Embarazo: Interpretación de Instrucciones y Signos Importantes",
+      "image": "https://raw.githubusercontent.com/simbatech30/pruebaembrazo/main/guia.jpg",
+      "content": "https://raw.githubusercontent.com/simbatech30/pruebaembrazo/main/prueba11.html",
+      "video": ""
+    },
+    {
+      "id": 12,
+      "category": "Guia",
+      "title": "Guía Completa de Pruebas de Embarazo: Paso a Paso para Resultados Precisos",
+      "image": "https://raw.githubusercontent.com/simbatech30/pruebaembrazo/main/guia.jpg",
+      "content": "https://raw.githubusercontent.com/simbatech30/pruebaembrazo/main/prueba12.html",
+      "video": ""
+    }
+  ],
+  "more_apps": [
+    {
+      "id": 1,
+      "title": "Guide Json",
+      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/thumbnail.png",
+      "url": "https://aliendro.id/solodroid-guide-json-android-news-app-191"
+    }
+  ]
+}
