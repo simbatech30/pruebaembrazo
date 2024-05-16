@@ -181,9 +181,39 @@
   "more_apps": [
     {
       "id": 1,
-      "title": "Guide Json",
-      "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/thumbnail.png",
-      "url": "https://aliendro.id/solodroid-guide-json-android-news-app-191"
+      "title": "Pinjol Terbaru Acc Cair Tips",
+      "image": "https://play-lh.googleusercontent.com/8CQJtdwVMUTQYVA7A1fCZLMMaZw-WCA1ShDExPhkZdgRo4NFv7KPgIeb7WivMqSdzFY=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=com.papazhu.pinjamanpinjolterbaruacc"
+    },
+     {
+      "id": 2,
+      "title": "Pinjaman 500 Ribu Cair Tips",
+      "image": "https://play-lh.googleusercontent.com/8CZQeWyK594vOgUOyXFstwzsuaEowLg1WunChqMokYhSGWo8p01KWjyQp4FAXwf-ZEc=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=com.papazhu.Pinjaman500ribulangsungcair"
+    },
+     {
+      "id": 3,
+      "title": "Props ID Sakura School",
+      "image": "https://play-lh.googleusercontent.com/_IlnncKguO4rQz2-ZFbc4ymhO3ruj1ldv5wX2NimJdMwvZ47oyQPIcqt-gsVeBxrybi_=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=com.papazhu.sakuraschoolpropsid"
+    },
+     {
+      "id": 4,
+      "title": "Sakura School Wallpaper",
+      "image": "https://play-lh.googleusercontent.com/vefQ6-arqNCAdiNhnx3k08uH26MCnjGVHxZadb3r3fGqYy3zEzI9CA0OQyCwvLQ7AvxW=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=com.papazhu.sakukrawallpaperschoool"
+    },
+     {
+      "id": 5,
+      "title": "Zotero Reference Guidance",
+      "image": "https://play-lh.googleusercontent.com/d8WiLu4j4e0x6ZHmKbWy7iQzBpWBynWjzgCSA6nvyY4nrnVSl0JceWWVYOe7smihk4I=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=com.papazhu.paintsplashescolor"
+    },
+     {
+      "id": 6,
+      "title": "Humata App Guidance",
+      "image": "https://play-lh.googleusercontent.com/3GKwO6G-mxUSrhWkzvCGiiiP0RlSwOtraSUbWhGnpSXazTOHgN1JnUzqyYliZpVtCGHf=w240-h480",
+      "url": "https://play.google.com/store/apps/details?id=com.papazhu.aestheticroadwall"
     }
   ]
 }
